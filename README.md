@@ -23,7 +23,11 @@ Normalization is the process of scaling the data so that all features have the s
 
 ### Modelling ###
 Several regression models were trained and evaluated, including linear regression, decision tree regression, and random forest regression. The linear regression model had the highest RMSE, indicating that it was not a good fit for the data. The decision tree and random forest regression models had lower RMSEs, indicating that they were better fits for the data.
+
 The best-performing model was the random forest regression model on the testing data. This model was then used to make predictions on a sample dataset containing new data.
+
 In conclusion, the Black Friday Sales Prediction problem can be tackled using regression techniques. In this case, a random forest regression model was found to be the best fit for the data. Some of the recommendations for future work include exploring other regression models, performing feature selection to reduce the dimensionality of the dataset, and using hyperparameter tuning to optimize the model's performance.
+
 Additionally, it is recommended to further explore the relationships between features and purchase amount, as well as to possibly engineer new features to improve the model's performance. Furthermore, considering the relatively low correlation between product categories 2 and 3 and the purchase amount, it may be beneficial to exclude these features from the model to simplify it and potentially improve its performance.
+
 Finally, it is important to note that the dataset used for this analysis may not be representative of the entire population and may have biases or limitations, which should be taken into account when interpreting the results and making decisions based on them.
