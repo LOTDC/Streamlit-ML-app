@@ -1,5 +1,5 @@
 # Streamlit-ML-app
-You can access the application page using this link.[Streamlit Page](https://lotdc-ml.streamlit.app/).
+You can access the application page using this link. [Streamlit Page](https://lotdc-ml.streamlit.app/)
 ## Black Friday Sales Prediction Using Regression Models ##
 #Introduction
 Black Friday Sales Prediction is a problem of predicting the amount of money spent by customers during the Black Friday sales event. This problem can be tackled using regression techniques. In this case, the data was provided as a CSV file, which was loaded into a pandas DataFrame.
